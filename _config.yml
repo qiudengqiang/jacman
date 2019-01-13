@@ -59,7 +59,7 @@ creative_commons: none
 author:
   intro_line1:  "Stay hungry，stay foolish"    ## your introduction on the bottom of the page
   intro_line2:  "Talk is cheap，show me the code."  ## the 2nd line
-  weibo: 6488657373 for http://weibo.com/techbird     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo: 6488657373      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: f458bf46    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 6488657373     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
