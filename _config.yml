@@ -1,8 +1,8 @@
 ##### Menu
 menu:
   Home: /
-  Archives: /archives
-  About: /about
+  Archives: /archives/
+  About: /about/
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -13,11 +13,11 @@ menu:
 #### Widgets
 widgets: 
 - github-card
-- links
-- weibo
+#- links
 - category
 - tag
 - rss
+- weibo
 #- douban
 
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
@@ -33,7 +33,7 @@ imglogo:
   src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
 favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
 apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
-author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
+author_img: img/author.JPG## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
@@ -59,13 +59,13 @@ creative_commons: none
 author:
   intro_line1:  "Stay hungry，stay foolish"    ## your introduction on the bottom of the page
   intro_line2:  "Talk is cheap，show me the code."  ## the 2nd line
-  weibo: 6488657373      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo: 6488657373   ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: f458bf46    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 6488657373     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email: qiudengqiang@gmail.com     ## e.g. imjark@gmail.com
-  twitter: stephentalk   ## e.g. jarkwu for https://twitter.com/jarkwu
+  twitter: murendless   ## e.g. jarkwu for https://twitter.com/jarkwu
   github: qiudengqiang  ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
@@ -82,7 +82,7 @@ toc:
 
 #### Links
 links:
-  RESUME: http://techbird.me/about
+  RESUME: https://techbird.me/about/
 
 
 
