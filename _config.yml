@@ -33,7 +33,7 @@ imglogo:
   src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
 favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
 apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
-author_img: img/author.JPG ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
+author_img: img/author.HEIC ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
@@ -57,8 +57,8 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "Stay hungry，stay foolish"    ## your introduction on the bottom of the page
-  intro_line2:  "Talk is cheap，show me the code."  ## the 2nd line
+  intro_line1:  "You can't connect the dots looking forward"    ## your introduction on the bottom of the page
+  intro_line2:  "You can only connect them looking backwards."  ## the 2nd line
   weibo: 6488657373   ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: f458bf46    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 6488657373     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
